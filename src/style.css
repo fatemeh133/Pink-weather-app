@@ -1,0 +1,37 @@
+.cloud {
+  width: 70px;
+}
+.halfCloud {
+  width: 40px;
+}
+.search {
+  color: #f1aeb5;
+}
+.temprature {
+  font-size: 50px;
+}
+.sub {
+  opacity: 70%;
+}
+.temp-sub {
+  font-weight: bold;
+}
+.under {
+  font-weight: bold;
+}
+.d:hover {
+  background-color: #ffd9dd;
+}
+.t {
+  background-color: #ffeef0;
+}
+.t:hover {
+  background-color: #fce0e4;
+}
+
+.footer {
+  font-size: 12px;
+}
+a {
+  text-decoration: none;
+}
